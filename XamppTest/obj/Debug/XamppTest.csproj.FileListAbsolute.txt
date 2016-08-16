@@ -1,0 +1,13 @@
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\bin\Debug\XamppTest.exe.config
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\bin\Debug\XamppTest.exe
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\bin\Debug\XamppTest.pdb
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\bin\Debug\MySql.Data.dll
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\bin\Debug\MySql.Web.dll
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\bin\Debug\MySql.Data.xml
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\bin\Debug\MySql.Web.xml
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\obj\Debug\XamppTest.csprojResolveAssemblyReference.cache
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\obj\Debug\XamppTest.Form1.resources
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\obj\Debug\XamppTest.Properties.Resources.resources
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\obj\Debug\XamppTest.csproj.GenerateResource.Cache
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\obj\Debug\XamppTest.exe
+c:\users\manuel.rixen\documents\visual studio 2015\Projects\XamppTest\XamppTest\obj\Debug\XamppTest.pdb
